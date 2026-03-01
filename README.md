@@ -20,7 +20,7 @@ Avoid the bananas and barrels!
 
 
 
-![donkeykong level 2 preview](images/Screenshot 2025-11-19 at 15.49.07.png)
+![donkeykong level 2 preview](images/IngameScreenShot.png)
 
 ![Project UML](images/Assign2.jpg)
 
